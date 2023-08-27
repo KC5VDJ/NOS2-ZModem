@@ -1,7 +1,7 @@
 # NOS2-ZModem
 Bringing NOS 2 into the late 80's.
 
-There are already XMODEM and KERMIT.  XMODEM was fine for RBBS, but not much else.  kermit is handy, but arcane.  The former died long before NOS 2.8, pretty much once anything better was available.  kermit always had a small base, despite its power (because of?).
+There are already XMODEM and KERMIT.  XMODEM was fine for RBBS, but not much else.  kermit is handy, but arcane.  The former died long before NOS 2.8, pretty much once anything better was available.  The latter always had a small base, despite its power (because of?).
 
 NOS 2.8.7 is just begging for ZModem.  There are ZModem capable Telnet clients out there...
 
